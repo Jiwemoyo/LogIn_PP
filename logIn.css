@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+  }
+h1{
+    margin-top: 100px;
+    color: rgb(254, 208, 73);
+    opacity: .5;
+}
+form{
+    
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.controlador{
+    margin: 10px;
+    background-color: rgb(180, 207, 216);
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    width: 300px;
+    font-size: 20px;
+    color: rgb(57, 55, 68);
+}
+
+.boton{
+    border: none;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color:rgb(254, 208, 73) ;
+    color: rgb(57, 55, 68);
+}
+
+img{
+    position: absolute;
+    width: 300px;
+}
+
+.perro{
+    bottom: 0;
+    left: 0;
+
+}
+
+.gato{
+    bottom: 0;
+    right: 0;
+}
