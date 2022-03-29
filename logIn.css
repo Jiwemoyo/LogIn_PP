@@ -9,6 +9,7 @@ h1{
     margin-top: 100px;
     color: rgb(254, 208, 73);
     opacity: .5;
+    font-size: 100px;
 }
 form{
     
@@ -46,7 +47,7 @@ form{
 
 img{
     position: absolute;
-    width: 300px;
+    width: 500px;
 }
 
 .perro{
