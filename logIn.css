@@ -5,6 +5,12 @@
     text-align: center;
     font-family: 'Dela Gothic One', cursive;
   }
+
+body{
+    background-image: url(/1x/fondo.png);
+    
+    background-size: cover;
+}
 h1{
     margin-top: 100px;
     color: rgb(254, 208, 73);
