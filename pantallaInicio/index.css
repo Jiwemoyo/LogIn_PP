@@ -107,3 +107,13 @@ h2{
     line-height: 36px;
     color: #282846;
 }
+
+/*footer*/
+footer{
+position: absolute;
+bottom: 0;
+width: 100%;
+padding: 40px;
+background: #085E7D;
+color: #D8EBE4;
+}
