@@ -118,3 +118,32 @@ background: #085E7D;
 color: #D8EBE4;
 }
 
+.sobre_nosotros{
+    text-align: center;
+}
+.mision{
+    text-align: center;
+}
+.vision{
+    text-align: center;
+}
+
+.sobre_nosotros p{
+    font-size: 26px;
+    font-weight: 700;
+    padding: 30px;
+    color: #074F69;
+}
+
+.mision p{
+    font-size: 26px;
+    font-weight: 700;
+    padding: 30px;
+    color: #074F69;
+}
+.vision p{
+    font-size: 26px;
+    font-weight: 700;
+    padding: 30px;
+    color: #074F69;
+}
